@@ -12,7 +12,7 @@
   },
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "ejs": "^2.7.4",
+    "ejs": "^3.1.10",
     "esm": "~3.1.0",
     "lodash": "^4.17.19",
     "pixelmatch": "^4.0.2",
